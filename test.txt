@@ -4,3 +4,11 @@
 0.0.0.0 r2.sn-25ge7n76.googlevideo.com
 0.0.0.0 r3---sn-25ge7n76.googlevideo.com
 0.0.0.0 r3.sn-25ge7n76.googlevideo.com
+||a1931.dscgi3.akamai.net^$important
+||a972.dscw43.akamai.net^$important
+||rr5---sn-cvh76nl7.googlevideo.com^$important
+||rr4---sn-ci5gup-cvhe7.googlevideo.com^$important
+||rr8---sn-ci5gup-cvhd.googlevideo.com^$important
+||rr2---sn-ci5gup-cvhee.googlevideo.com^$important
+||yt3.ggpht.com^$important
+||www.googleadservices.com^$important
